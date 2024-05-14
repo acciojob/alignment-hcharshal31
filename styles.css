@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 .middle{
-	align-items: center;
+    margin: auto;
+    width: 60%;
 }
 
 .center{
